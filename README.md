@@ -8,13 +8,6 @@
 
 ---
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NishatJillani&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatJillani&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🚀 About Me  
 I am a **Python Data Scientist** specializing in data analysis, machine learning, and optimization.  
 I develop AI-driven models for predictive analytics, image recognition, and anomaly detection using **TensorFlow** and **PyTorch**.  
@@ -25,11 +18,12 @@ I develop AI-driven models for predictive analytics, image recognition, and anom
 ---
 
 ## 🔭 Current Projects  
-- **Battery Optimization** at **University of Kassel**  
-  Contributing to grid stability and energy storage integration using **Pyomo** and advanced time series analysis.
-  
-- **Soiling Prediction for Solar PV Systems** at **Fraunhofer ISE**  
-  Leveraging AI models to optimize cleaning strategies and enhance energy yield.
+### 🔹 Battery Optimization | University of Kassel  
+- Contributing to grid stability and energy storage integration using **Pyomo** and advanced time series analysis.
+
+### 🔹 Soiling Prediction for Solar PV Systems | Fraunhofer ISE  
+- Leveraging AI models to optimize cleaning strategies and enhance energy yield.
+- Applying machine learning models like **ANN**, **Random Forest**, **XGBoost**, and **LSTM** for predictive analysis.
 
 ---
 
@@ -50,16 +44,9 @@ I develop AI-driven models for predictive analytics, image recognition, and anom
 
 ---
 
-## 💡 Learning & Exploring  
+## 📚 Learning & Growth  
 - Advanced AI techniques: **Neural Networks**, **Random Forest**, **XGBoost**, and **LSTM**.  
 - Cloud infrastructure for scalable model deployment.
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishatJillani&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
