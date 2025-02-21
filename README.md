@@ -1,9 +1,15 @@
 <h1 align="center">
-  Hi, I'm Nishat Jillani! 👋
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Nishat+Jillani!+%F0%9F%91%8B;Python+Data+Scientist;Machine+Learning+Enthusiast;AI+Innovator;Open+to+Collaboration!">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Python+Data+Scientist;Machine+Learning+Enthusiast;AI+Innovator;Time+Series+Analysis+Expert;Open+to+Collaboration!">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:F75C7E&height=200&section=header&text=Nishat%20Jillani&fontSize=50&fontColor=FFFFFF" />
+</p>
+
+---
+
+<p align="center">
+  <em>"Turning data into actionable insights and driving innovation with AI!"</em>
 </p>
 
 ---
@@ -50,6 +56,13 @@ I develop AI-driven models for predictive analytics, image recognition, and anom
 
 ---
 
+## 📈 GitHub Highlights  
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishatJillani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 <p align="center">
     <a href="https://www.linkedin.com/in/nishat-jillani-63b7b7211/">
@@ -68,4 +81,10 @@ I develop AI-driven models for predictive analytics, image recognition, and anom
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=NishatJillani.NishatJillani" alt="Visitors">
     <img src="https://img.shields.io/github/followers/NishatJillani?label=Follow&style=social" alt="GitHub Followers">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:36BCF7&height=200&section=footer"/>
 </p>
