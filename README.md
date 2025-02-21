@@ -56,12 +56,6 @@ I develop AI-driven models for predictive analytics, image recognition, and anom
 
 ---
 
-## 📈 GitHub Highlights  
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishatJillani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🌐 Connect with Me  
 <p align="center">
