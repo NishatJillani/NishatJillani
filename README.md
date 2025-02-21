@@ -1,42 +1,39 @@
-<h1 align="center">Hi, I'm Nishat Jillani! 👋</h1>
+<h1 align="center">
+  Hi, I'm Nishat Jillani! 👋
+</h1>
+
 <p align="center">
-🌟 Python Data Scientist | Machine Learning Enthusiast | AI Innovator 🌟
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Python+Data+Scientist;Machine+Learning+Enthusiast;AI+Innovator;Time+Series+Analysis+Expert;Open+to+Collaboration!">
 </p>
 
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NishatJillani&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatJillani&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishatJillani&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NishatJillani&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatJillani&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-I'm a **Python Data Scientist** specializing in data analysis, machine learning, and optimization.  
-I develop AI-driven models for predictive analytics, image recognition, and anomaly detection using deep learning frameworks like **TensorFlow** and **PyTorch**.  
+I am a **Python Data Scientist** specializing in data analysis, machine learning, and optimization.  
+I develop AI-driven models for predictive analytics, image recognition, and anomaly detection using **TensorFlow** and **PyTorch**.  
 
-I'm passionate about leveraging data to drive innovative solutions and enhance decision-making. I thrive on solving complex challenges with data!
+🔎 I love solving complex problems using data and am passionate about **emerging technologies**!  
+⚡ Currently contributing to projects in **Battery Optimization** and **Soiling Prediction for Solar PV Systems**.
 
 ---
 
 ## 🔭 Current Projects  
-- **Battery Optimization**:  
-  Contributing to grid stability and energy storage integration at **University of Kassel** using Pyomo and advanced time series analysis.  
-- **Soiling Prediction for Solar PV Systems**:  
-  Leveraging AI models to optimize cleaning strategies and enhance energy yield at **Fraunhofer ISE**.
+- **Battery Optimization** at **University of Kassel**  
+  Contributing to grid stability and energy storage integration using **Pyomo** and advanced time series analysis.
+  
+- **Soiling Prediction for Solar PV Systems** at **Fraunhofer ISE**  
+  Leveraging AI models to optimize cleaning strategies and enhance energy yield.
 
 ---
 
-## 🌱 Learning & Growth  
-- Advanced AI techniques including **Neural Networks**, **Random Forest**, **XGBoost**, and **LSTM** for predictive analysis.  
-- **Cloud Infrastructure** and scalable model deployment for efficient AI solutions.
-
----
-
-## 👨‍💻 Tech Stack
-
+## 🛠️ Skills & Technologies  
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -53,53 +50,20 @@ I'm passionate about leveraging data to drive innovative solutions and enhance d
 
 ---
 
-## 💼 Professional Experience
-
-### 🔹 Data Scientist | Student Assistant at **Fraunhofer ISE**  
-- Developed Python-based solutions for **soiling prediction** in solar PV systems using AI and time series analysis.  
-- Applied machine learning models such as **Neural Networks (ANN)**, **Random Forest**, **XGBoost**, and **LSTM** for predictive analysis.  
-
-### 🔹 Python Developer | Student Assistant at **University of Kassel**  
-- Contributed to innovative energy storage integration for grid stability and optimization.  
-- Conducted **time series analysis** and **Pyomo library optimization** for performance efficiency.
-
-### 🔹 Junior Data Scientist at **Coyodigital Software House**  
-- Developed data-driven solutions by designing predictive models and optimizing data strategies.
-
-### 🔹 Data Analyst at **Webx Technology**  
-- Performed exploratory data analysis (EDA) and developed machine learning models for data insights.
+## 💡 Learning & Exploring  
+- Advanced AI techniques: **Neural Networks**, **Random Forest**, **XGBoost**, and **LSTM**.  
+- Cloud infrastructure for scalable model deployment.
 
 ---
 
-## 👯 Collaboration Opportunities  
-- **AI/ML Projects**: Time series analysis, predictive modeling, and data-driven decision-making.  
-- **Energy Optimization**: Sustainable energy solutions using machine learning.
+## 📊 GitHub Stats  
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishatJillani&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🧠 Technologies & Tools  
-- **Programming & ML Libraries**: Python, TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas  
-- **Optimization Tools**: Pyomo Library  
-- **Data Visualization**: Matplotlib, Seaborn  
-- **Cloud Platforms**: AWS, Azure  
-- **Databases**: SQL/NoSQL  
-- **Web Scraping**: BeautifulSoup, Selenium  
-
----
-
-## 💬 Ask Me About  
-- Machine learning models, predictive analytics, and time series forecasting.  
-- Energy optimization and grid storage integration.  
-- Cloud integration and scalable model deployment.
-
----
-
-## ⚡ Fun Fact  
-I'm passionate about emerging technologies and enjoy experimenting with **AI-driven solutions** for real-world impact!
-
----
-
-## 📬 Let's Connect!  
+## 🌐 Connect with Me  
 <p align="center">
     <a href="https://www.linkedin.com/in/nishat-jillani-63b7b7211/">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
